@@ -1,0 +1,5 @@
+SDG 6: Clean Water and Sanitation
+
+Problem: In many rural areas, access to clean drinking water remains a challenge. This project aims to analyze the water usage patterns across different regions to identify areas with insufficient access to clean water and optimize the distribution of water resources.
+
+Objective: To use data-driven approaches to help decision-makers prioritize regions with low access to clean water and manage water resources more effectively.

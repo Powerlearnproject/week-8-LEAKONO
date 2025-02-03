@@ -1,0 +1,10 @@
+Integration Process:
+1. Imported data from the MySQL database into Excel using Microsoft Query.
+2. Verified that the data pulled from the database matches the data entered in the database tables.
+3. Created a Pivot Table to summarize water usage across regions.
+4. Built a dashboard that allows users to filter by region or access type to view insights.
+5. Validated the dashboard by cross-referencing data from SQL queries and Excel output.
+
+Testing:
+- Ensured all fields in the Pivot Table correctly correspond to the database fields.
+- Validated the chart by comparing values with raw SQL queries.
